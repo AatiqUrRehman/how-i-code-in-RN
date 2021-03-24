@@ -5,5 +5,5 @@ interface Configs {
 
 export const configs: Configs =  {
     baseApiUrl: "https://api.awesome-site.com",
-    appSecret: ""
+    appSecret: "231"
 }
