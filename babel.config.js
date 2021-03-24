@@ -23,6 +23,7 @@ module.exports = {
           "molecules": "./src/components/molecules",
           "organisms": "./src/components/organisms",
           "navigations": "./src/navigations",
+          "configs": "./src/configs",
           "screens": "./src/screens",
           "services": "./src/services",
           "styles": "./src/styles",
